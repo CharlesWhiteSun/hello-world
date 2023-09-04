@@ -1,8 +1,8 @@
 # hello-world
 
-Hello everyone,
+Hi everyone,
 
-I am still learning coding, it very interests.
+I am still learning coding, it's very interested.
 Hope that I can do it well as better as I can.
 Thank you all.
 
